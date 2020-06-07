@@ -1,0 +1,7 @@
+meta.json filter=lfs diff=lfs merge=lfs -text
+ner filter=lfs diff=lfs merge=lfs -text
+parser filter=lfs diff=lfs merge=lfs -text
+README.md filter=lfs diff=lfs merge=lfs -text
+tagger filter=lfs diff=lfs merge=lfs -text
+tokenizer filter=lfs diff=lfs merge=lfs -text
+vocab filter=lfs diff=lfs merge=lfs -text
